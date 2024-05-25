@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Company Name</title>
+    <style>
+        /* Add your styles here */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
+        nav {
+            background-color: #eee;
+            padding: 10px;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- HOME -->
+    <header>
+        <h1>Your Company Logo</h1>
+        <p>Your Tagline</p>
+    </header>
+    <nav>
+        <a href="#home">Home</a> |
+        <a href="#about">About Us</a> |
+        <a href="#shop">Shop</a> |
+        <a href="#contact">Contact Us</a>
+    </nav>
+    <section id="home">
+        <h2>Overview Webpage</h2>
+        <p>Your content goes here.</p>
+        <!-- Add more content as needed -->
+    </section>
+
+    <!-- ABOUT US -->
+    <section id="about">
+        <h2>About Us</h2>
+        <p>About the company</p>
+        <p>Organizational chart</p>
+        <p>CEO/Owner information</p>
+        <!-- Add more content as needed -->
+    </section>
+
+    <!-- SHOP -->
+    <section id="shop">
+        <h2>Shop</h2>
+        <p>Product listings and details go here.</p>
+        <!-- Add more content as needed -->
+    </section>
+
+    <!-- CONTACT US -->
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Address</p>
+        <p>Map</p>
+        <p>Social Accounts</p>
+        <p>Copyright</p>
+        <p>Telephone Number</p>
+        <p>Email</p>
+        <!-- Add more content as needed -->
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Your Company Name. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
